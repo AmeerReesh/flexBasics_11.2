@@ -1,0 +1,38 @@
+body{
+    background-color: blanchedalmond;
+    margin-top: 960px;
+    padding: 6;
+    line-height: 1.6;
+    align-items: center;
+    
+
+    
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.box1{
+    background-color: greenyellow;
+    height: 150px;
+    width: 250px;
+    font-size: xxx-large;
+}
+
+.box2{
+    background-color: dodgerblue;
+    height: 150px;
+    width: 250px;
+    font-size: xxx-large;
+}
+
+.box3{
+    background-color: red;
+    height: 150px;
+    width: 250px;
+    font-size: xxx-large;
+}
